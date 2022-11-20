@@ -7,7 +7,7 @@ This version of qb-policejob supports multiple police departments by changing pl
 Below is an example of how to add policejob to qb-core / shared / jobs.lua to make them work with the police job. As you can see in the example below type = "leo".
 
 ```
-    ['bcso'] = {
+['bcso'] = {
 	label = 'Blaine County Sheriff Dept',
         type = "leo",
 	defaultDuty = true,
