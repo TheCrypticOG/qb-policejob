@@ -1,4 +1,4 @@
-# qb-policejob Multi-department
+# qb-policejob w/ Multi-department
 [QB-Policejob] Multi-department
 
 
